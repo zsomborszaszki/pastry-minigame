@@ -1,2 +1,2 @@
-# pastry-minigame
-Péksütemény slot machine mini game IKT órára. Fejlesztők: grűnfeld Ádám, Szaszki Zsombor
+# Pastry minigame
+## Ez a minigame projekt Szakmai Angol órára készült Grűnfeld Ádám és Szaszki Zsombor közreműködésével.
